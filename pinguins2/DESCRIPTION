@@ -1,0 +1,17 @@
+Package: pinguins2
+Title: App que prediz sexo dos pinguins
+Version: 1.0
+Authors@R: 
+    person(given = "Athos",
+           family = "Damiani",
+           role = c("aut", "cre"),
+           email = "your@email.com")
+Description: Prediz sexo dos pinguins
+License: What license is it under?
+Imports: 
+    config,
+    golem,
+    shiny
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
